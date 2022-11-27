@@ -12,7 +12,7 @@ class Recontent < Formula
     sha256 "5a2f00b351c46726fb3d2c8d2069de0f9dd92cc29da6cc8c9be9445661563fac"
 
     def install
-      bin.install "cli"
+      bin.install "recontent"
     end
   end
 
